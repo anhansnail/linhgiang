@@ -363,7 +363,7 @@
 .card-welcome {
   padding: 10%;
   text-align: center;
-  border: 1px solid navy;
+  border: 1px solid #f9c461;
   color: black;
   position: relative;
   height: 730px;
@@ -399,7 +399,7 @@
   break-inside: avoid-column;
   padding: 10%;
   text-align: center;
-  border: 1px solid navy;
+  border: 1px solid #f9c461;
   color: black;
   position: relative;
   height: auto;
@@ -454,8 +454,8 @@
 }
 
 .information-time .day {
-  background-color: #626ed4;
-  border: 1px solid #626ed4;
+  background-color: #f7a01d;
+  border: 1px solid #f7a01d;
   color: white;
   border-radius: 3px;
   font-size: 20px;
@@ -493,6 +493,8 @@
 .family-name {
   font-size: 16px;
   margin: 0px;
+  font-weight: bold;
+  color: #934a00;
 }
  
 .share-buttons {

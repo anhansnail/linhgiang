@@ -9,27 +9,27 @@ const SeedDB = {
   },
   dataConfig: {
     male: {
-      name: "Nguyễn Văn An",
+      name: "Nguyễn Trường Giang",
       parent: {
         father: "Họ Tên Bố",
-        mother: "Họ Tên Mẹ"
+        mother: "Nguyễn Thuý Nga"
       },
       location: {
-        text: "Quảng Yên - Quảng Ninh - Việt Nam",
-        map: "https://goo.gl/maps/tTZz4qKhaiqSL8Q66"
+        text: "Tống Duy Tân - Hoàn Kiếm - Hà Nội - Việt Nam",
+        map: "https://goo.gl/maps/JsqLu6agbbj2APmq7"
       },
       time_start: {
         date: {
           lunar: {
-            day: "17",
-            month: "12",
-            year: "2020"
+            day: "7",
+            month: "8",
+            year: "2022"
           },
-          day_of_week: "5",
+          day_of_week: "7",
           solar: {
-            day: "17",
-            month: "12",
-            year: "2020"
+            day: "10",
+            month: "08",
+            year: "2022"
           }
         },
         time: {
@@ -40,47 +40,47 @@ const SeedDB = {
       finances: [{
         provider_name: "MB Bank",
         provider_number: "9971997555555",
-        holder_name: "NGUYEN VAN AN"
+        holder_name: "NGUYEN TRUONG GIANG"
       }, {
         provider_name: "Techcombank",
         provider_number: "19034892842011",
-        holder_name: "NGUYEN VAN AN"
+        holder_name: "NGUYEN TRUONG GIANG"
       }, {
         provider_name: "Momo",
         provider_number: "0973699999",
-        holder_name: "NGUYEN VAN AN"
+        holder_name: "NGUYEN TRUONG GIANG"
       }, {
         provider_name: "Airpay",
         provider_number: "0973699999",
-        holder_name: "NGUYEN VAN AN"
+        holder_name: "NGUYEN TRUONG GIANG"
       }],
-      email: "male@gmail.com",
+      email: "minhanhvuongvn.com",
       phone: "0973699999",
       bg: '/assets/images/bg.jpg',
       bg_fb: '/assets/images/bg-fb.jpg'
     },
     female: {
-      name: "Nguyễn Thị Lan Anh",
+      name: "Vương Thuỳ Linh",
       parent: {
         father: "Họ Tên Bố",
-        mother: "Họ Tên Mẹ"
+        mother: "Nguyễn Thị Lê"
       },
       location: {
-        text: "Quốc Oai - Hà Nội - Việt Nam",
-        map: "https://goo.gl/maps/tRjKuVRNisqxhQaT7"
+        text: "Thạch Bàn - Long Biên - Hà Nội - Việt Nam",
+        map: "https://goo.gl/maps/JsqLu6agbbj2APmq7"
       },
       time_start: {
         date: {
           lunar: {
-            day: "17",
-            month: "12",
-            year: "2020"
+            day: "7",
+            month: "8",
+            year: "2022"
           },
-          day_of_week: "5",
+          day_of_week: "7",
           solar: {
-            day: "17",
-            month: "12",
-            year: "2020"
+            day: "10",
+            month: "08",
+            year: "2022"
           }
         },
         time: {
@@ -91,21 +91,21 @@ const SeedDB = {
       finances: [{
         provider_name: "Techcombank",
         provider_number: "19033799999999",
-        holder_name: "NGUYEN THI LAN ANH"
+        holder_name: "VUONG THUY LINH"
       }, {
         provider_name: "Techcombank",
         provider_number: "19033799999999",
-        holder_name: "NGUYEN THI LAN ANH"
+        holder_name: "VUONG THUY LINH"
       }, {
         provider_name: "Momo",
         provider_number: "09736",
-        holder_name: "NGUYEN THI LAN ANH"
+        holder_name: "VUONG THUY LINH"
       }, {
         provider_name: "Airpay",
         provider_number: "0973699999",
-        holder_name: "NGUYEN VAN AN"
+        holder_name: "NGUYEN TRUONG GIANG"
       }],
-      email: "female@gmail.com",
+      email: "minhanhvuongvn.com",
       phone: "0985123123",
       bg: '/assets/images/bg.jpg',
       bg_fb: '/assets/images/bg-fb.jpg'

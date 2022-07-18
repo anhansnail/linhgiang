@@ -41,6 +41,7 @@
             opacity: 0.75;
             background-image: url('<%= data.cfg.male.bg %>');
             background-size: cover;
+            background-position: bottom center;
         }
     </style>
 
@@ -74,7 +75,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a style="padding-top: 8px"
+                            <!-- <a style="padding-top: 8px"
                                 href="/bank" %>'
                                 target="_blank">
                                 <div class="share-button">
@@ -87,7 +88,7 @@
                                         <i class="share-button-icon ti-money"></i>
                                     </div>
                                 </div>
-                            </a>
+                            </a> -->
                         </div>
 
                         <div class="wrap-card-welcome">
@@ -97,11 +98,11 @@
                                     Wedding
                                 </div>
                                 <div class="card-welcome-date">
-                                    <%= data.cfg.male.time_start.date.lunar.day  %>
+                                    <%= data.cfg.male.time_start.date.solar.day  %>
                                     -
-                                    <%= data.cfg.male.time_start.date.lunar.month  %>
+                                    <%= data.cfg.male.time_start.date.solar.month  %>
                                     -
-                                    <%= data.cfg.male.time_start.date.lunar.year  %> 
+                                    <%= data.cfg.male.time_start.date.solar.year  %> 
                                 </div>
 
                             </div>
@@ -150,14 +151,14 @@
                                         <%= data.cfg.male.time_start.time.minute  %>"</span>
                                     <div class="information-time">
                                         <span class="week vni">Thứ <%= data.cfg.male.time_start.date.day_of_week  %></span>
-                                        <span class="day btn"> <%= data.cfg.male.time_start.date.lunar.day  %></span>
-                                        <span class="month vni">Tháng  <%= data.cfg.male.time_start.date.lunar.month  %></span>
+                                        <span class="day btn"> <%= data.cfg.male.time_start.date.solar.day  %></span>
+                                        <span class="month vni">Tháng  <%= data.cfg.male.time_start.date.solar.month  %></span>
                                     </div>
                                     <span class="detail-time">(Tức ngày <%= data.cfg.male.time_start.date.lunar.day %>/
                                         <%= data.cfg.male.time_start.date.lunar.month  %>)</span> 
-                                <div style="padding-top:10px">Tại tự gia Nhà Trai </div>
+                                <div style="padding-top:10px">Trung tâm tiệc cưới Thúy Cải - 25 Tông Đản, Tràng Tiền, Hoàn Kiếm, Hà Nội</div>
                                 <div class="address">
-                                    <%= data.cfg.male.location.text  %>
+                                    <!-- <%= data.cfg.male.location.text  %> -->
                                 </div>
 
                             </div>
@@ -172,14 +173,14 @@
                                     <div class="home-male">
                                         <span class="footer-header vni">Nhà Trai</span>
                                         <div class="family-information">
-                                            <p class="family-name"> <%= data.cfg.male.parent.father  %></p>
+                                            <!-- <p class="family-name"> <%= data.cfg.male.parent.father  %></p> -->
                                             <p class="family-name"><%= data.cfg.male.parent.mother  %></p>
                                         </div>
                                     </div>
                                     <div class="home-female">
                                         <span class="footer-header vni">Nhà Gái</span>
                                         <div class="family-information">
-                                            <p class="family-name"> <%= data.cfg.female.parent.father  %></p>
+                                            <!-- <p class="family-name"> <%= data.cfg.female.parent.father  %></p> -->
                                             <p class="family-name"><%= data.cfg.female.parent.mother  %></p>
                                         </div>
                                     </div>

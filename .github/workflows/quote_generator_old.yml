@@ -19,7 +19,7 @@ jobs:
       run: npm run generate
     - name: Update README.md
       run: |
-        git config --global user.email "minhanhvuongvn@gmail.com"
+        git config --global user.email "minhphucpk.1997@gmail.com"
         git config --global user.name "dinhphuc"
         git add .
         git commit -m "Updated README.md" || echo "Random Quote to commit"
