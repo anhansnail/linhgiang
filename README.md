@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The best way to gain self-confidence is to do what you are afraid to do.**
+**Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.**
 
-Swati Sharma
+Rikki Rogers
