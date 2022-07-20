@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Just when the caterpillar thought the world was ending, it turned into a butterfly.**
+**You are what you do, not what you say you'll do.**
 
 Anonymous
