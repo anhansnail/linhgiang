@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is no cosmetic for beauty like happiness.**
+**Just when the caterpillar thought the world was ending, it turned into a butterfly.**
 
-Maria Mitchell
+Anonymous
