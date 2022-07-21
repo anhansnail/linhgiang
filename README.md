@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you can't live longer, live deeper.**
+**Don't wish it were easier. Wish you were better.**
 
-Italian Proverb
+Jim Rohn
