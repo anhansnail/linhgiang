@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are what you do, not what you say you'll do.**
+**If you can't live longer, live deeper.**
 
-Anonymous
+Italian Proverb
