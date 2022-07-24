@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Whoever is happy will make others happy too.**
+**You cannot change the direction of the wind - only alter the angle of your sails.**
 
 Anonymous
