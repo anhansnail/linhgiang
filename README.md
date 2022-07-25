@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Nothing is more beautiful than the smile that has struggled through the tears.**
+**Opportunities don't happen. You create them.**
 
-Demi Lovato
+Chris Grosser
