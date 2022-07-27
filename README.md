@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Build your own dreams, or someone else will hire you to build theirs.**
+**With virtue, you can't be completely poor; without it, you can't be truly rich.**
 
-Farrah Gray
+Chinese Proverb
