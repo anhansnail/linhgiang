@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**He who always thinks it is too soon is sure to come too late.**
+**The way to get started is to quit talking and begin doing.**
 
-German Proverb
+Walt Disney
