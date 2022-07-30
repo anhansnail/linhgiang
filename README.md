@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Attitude will always define who we are in life.**
+**Don't be afraid to give up the good to go for the great.**
 
-Mark A. Brennan
+John D. Rockefeller
