@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The way to get started is to quit talking and begin doing.**
+**Attitude will always define who we are in life.**
 
-Walt Disney
+Mark A. Brennan
