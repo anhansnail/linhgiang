@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't be afraid to give up the good to go for the great.**
+**Choosing to be positive and having a grateful attitude is going to determine how you're going to live your life.**
 
-John D. Rockefeller
+Joel Osteen
