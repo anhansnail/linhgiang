@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**No matter how old I get, the race remains one of life's most rewarding experiences.**
+**I know I have unlimited potential to create the life of my dreams.**
 
-George Sheehan
+Anonymous
