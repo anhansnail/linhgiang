@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do all things with love.**
+**Success is the sum of small efforts repeated day-in and day-out.**
 
-Og Mandino
+Robert Collier
