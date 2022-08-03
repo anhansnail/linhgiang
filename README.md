@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is nothing on this earth more to be prized than true friendship.**
+**It feels good when you can put a smile on someone's face by simply being yourself.**
 
-Thomas Aquinas
+Anonymous
