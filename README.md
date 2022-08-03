@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Success is the sum of small efforts repeated day-in and day-out.**
+**There is nothing on this earth more to be prized than true friendship.**
 
-Robert Collier
+Thomas Aquinas
