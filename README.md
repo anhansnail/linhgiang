@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It feels good when you can put a smile on someone's face by simply being yourself.**
+**Alone, we can do so little; together we can do so much.**
 
-Anonymous
+Helen Keller
