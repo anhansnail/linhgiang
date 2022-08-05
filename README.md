@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is only real when shared.**
+**Instead of worrying about what you cannot control, shift your energy to what you can create.**
 
-Jon Krakauer
+Roy T. Bennett
