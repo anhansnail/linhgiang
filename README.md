@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Instead of worrying about what you cannot control, shift your energy to what you can create.**
+**Gratitude is the sweetest thing in a seeker's life- in all human life. If there is gratitude in your heart, then there will be tremendous sweetness in your eyes.**
 
-Roy T. Bennett
+Sri Chinmoy
