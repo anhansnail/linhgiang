@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Your body is made to move so move it.**
+**There is no cosmetic for beauty like happiness.**
 
-Toni Sorenson
+Maria Mitchell
