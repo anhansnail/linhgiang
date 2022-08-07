@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is no cosmetic for beauty like happiness.**
+**Set a goal so big that you can't achieve it until you grow into the person who can.**
 
-Maria Mitchell
+Anonymous
