@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Set a goal so big that you can't achieve it until you grow into the person who can.**
+**Success is the ability to go from one failure to another with no loss of enthusiasm.**
 
-Anonymous
+Winston Churchill
