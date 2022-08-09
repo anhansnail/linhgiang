@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you can't find the opportunities you're looking for...create them.**
+**Being entirely honest with oneself is a good exercise.**
 
-Anonymous
+Sigmund Freud
