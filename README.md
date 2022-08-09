@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Being entirely honest with oneself is a good exercise.**
+**When you love what you have, you have everything you need.**
 
-Sigmund Freud
+Anonymous
