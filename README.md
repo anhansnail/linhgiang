@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Love cures people - both the ones who give it and the ones who receive it.**
+**I was angry that I had no shoes. Then I met a man who had no feet.**
 
-Karl A. Menninger
+Chinese Proverb
