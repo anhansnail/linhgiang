@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not about perfect. It's about effort.**
+**Love cures people - both the ones who give it and the ones who receive it.**
 
-Jillian Michaels
+Karl A. Menninger
