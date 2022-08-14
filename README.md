@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I was angry that I had no shoes. Then I met a man who had no feet.**
+**Be crazy. Be stupid. Be silly. Be weird. Be whatever. Because life is too short to be anything but happy.**
 
-Chinese Proverb
+Anonymous
