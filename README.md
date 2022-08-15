@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**What we achieve inwardly will change outer reality.**
+**Even the smallest shift in perspective can bring about the greatest healing.**
 
-Plutarch
+Joshua Kai
