@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Success consists of getting up just one more time than you fall.**
+**What we achieve inwardly will change outer reality.**
 
-Oliver Goldsmith
+Plutarch
