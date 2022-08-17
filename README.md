@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not bragging if you can back it up.**
+**We can't help everyone, but everyone can help someone.**
 
-Muhammed Ali
+Ronald Reagan
