@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Goals may give focus, but dreams give power.**
+**When something is important enough, you do it even if the odds are not in your favor.**
 
-John Maxwell
+Elon Musk
