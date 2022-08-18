@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When something is important enough, you do it even if the odds are not in your favor.**
+**There are two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.**
 
-Elon Musk
+Albert Einstein
