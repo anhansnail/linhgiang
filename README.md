@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There are two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.**
+**I am an ordinary man who worked hard to develop the talent I was given. I believed in myself, and I believe in the goodness of others.**
 
-Albert Einstein
+Muhammad Ali
