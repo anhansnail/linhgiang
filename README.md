@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It ain't as bad as you think. It will look better in the morning.**
+**I'm not here to be average, I'm here to be awesome.**
 
-Colin Powell
+Anonymous
