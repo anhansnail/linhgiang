@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Train yourself to let go of everything you fear to lose.**
+**Always remember that you are absolutely unique. Just like everyone else.**
 
-Yoda
+Margaret Mead
