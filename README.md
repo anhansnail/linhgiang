@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life is about making an impact, not making an income.**
+**Train yourself to let go of everything you fear to lose.**
 
-Kevin Kruse
+Yoda
