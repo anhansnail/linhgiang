@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You have purpose.**
+**Change your thoughts and you change your world.**
 
-Anonymous
+Norman Vincent Peale
