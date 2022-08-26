@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It makes a big difference in your life when you stay positive.**
+**If you can't live longer, live deeper.**
 
-Ellen DeGeneres
+Italian Proverb
