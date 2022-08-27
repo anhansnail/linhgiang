@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One small positive thought in the morning can change your whole day.**
+**Rock bottom became the solid foundation on which I rebuilt my life.**
 
-Anonymous
+J.K. Rowling
