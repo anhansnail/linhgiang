@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you can't live longer, live deeper.**
+**One small positive thought in the morning can change your whole day.**
 
-Italian Proverb
+Anonymous
