@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Rock bottom became the solid foundation on which I rebuilt my life.**
+**I can't change the direction of the wind, but I can adjust my sails to always reach my destination.**
 
-J.K. Rowling
+Jimmy Dean
