@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Live your life for you.**
+**Spread love everywhere you go. Let no one ever come to you without leaving happier.**
 
-Anonymous
+Mother Teresa
