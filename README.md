@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Look in the mirror. That's your competition.**
+**Opportunities don't happen. You create them.**
 
-John Assaraf
+Chris Grosser
