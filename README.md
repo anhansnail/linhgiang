@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.**
+**Strength is the product of struggle. You must do what others don't to achieve what others wont.**
 
-Lao-Tzu
+Henry Rollins
