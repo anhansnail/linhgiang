@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Strength is the product of struggle. You must do what others don't to achieve what others wont.**
+**Live for yourself and don't ever stop.**
 
-Henry Rollins
+John Tew
