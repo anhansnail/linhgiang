@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Live for yourself and don't ever stop.**
+**The one who falls and gets up is so much stronger than the one who never fell.**
 
-John Tew
+Anonymous
