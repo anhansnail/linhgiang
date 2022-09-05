@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Earn your confidence, nurture it, then help to build it in others.**
+**Be helpful. When you see a person without a smile, give them yours.**
 
-Alex Malley
+Zig Ziglar
