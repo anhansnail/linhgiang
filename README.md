@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be helpful. When you see a person without a smile, give them yours.**
+**I am happy because I'm grateful. I choose to be grateful. That gratitude allows me to be happy.**
 
-Zig Ziglar
+Will Arnett
