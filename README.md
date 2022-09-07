@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Failure is not the falling down but the staying down.**
+**Teachers open the door; you enter by yourself.**
 
-Anonymous
+Chinese Proverb
