@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Teachers open the door; you enter by yourself.**
+**The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.**
 
-Chinese Proverb
+Michaelangelo
