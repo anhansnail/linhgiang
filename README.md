@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is a journey ... not a destination.**
+**Kindness is free. Sprinkle that stuff everywhere.**
 
-Ben Sweetland
+Anonymous
