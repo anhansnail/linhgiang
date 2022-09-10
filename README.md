@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You may encounter many defeats, but you must not be defeated.**
+**We can't be brave without fear.**
 
-Maya Angelou
+Muhammad Ali
