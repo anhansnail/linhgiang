@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We can't be brave without fear.**
+**The harder the struggle, the more glorious the triumph.**
 
-Muhammad Ali
+Anonymous
