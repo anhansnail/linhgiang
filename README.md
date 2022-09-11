@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The harder the struggle, the more glorious the triumph.**
+**Beauty begins the moment you decide to be yourself.**
 
-Anonymous
+Coco Chanel
