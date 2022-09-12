@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Beauty begins the moment you decide to be yourself.**
+**Determination is doing what needs to be done even when you don't feel like doing it.**
 
-Coco Chanel
+Anonymous
