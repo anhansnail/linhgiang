@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't be frightened by difficulties.**
+**That is bad news... if you do not believe in yourself.**
 
-Ryan Holiday
+Master Oogway
