@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**So certain were you. Go back and closer you must look.**
+**Courage is one step ahead of fear.**
 
-Yoda
+Coleman Young
