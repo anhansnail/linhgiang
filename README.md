@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You have to be at your strongest when you're feeling at your weakest.**
+**So certain were you. Go back and closer you must look.**
 
-Anonymous
+Yoda
