@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's hard to beat a person who never gives up.**
+**Pass on what you have learned.**
 
-Anonymous
+Yoda
