@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Risk more than others think is safe. Dream more than others think is practical.**
+**The only time you fail is when you fall down and stay down.**
 
-Anonymous
+Stephen Richards
