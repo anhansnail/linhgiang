@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be strong enough to let go and patient enough to wait for what you deserve.**
+**Every champion was once a contender that refused to give up.**
 
-Anonymous
+Rocky Balboa
