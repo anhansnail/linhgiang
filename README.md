@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When it comes to success, there are no shortcuts.**
+**In the end, it's not the years in your life that count. It's the life in your years.**
 
-Bo Bennett
+Abraham Lincoln
