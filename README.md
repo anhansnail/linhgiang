@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every champion was once a contender that refused to give up.**
+**When it comes to success, there are no shortcuts.**
 
-Rocky Balboa
+Bo Bennett
