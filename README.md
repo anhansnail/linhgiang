@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In the end, it's not the years in your life that count. It's the life in your years.**
+**Pain is temporary. Quitting lasts forever.**
 
-Abraham Lincoln
+Lance Armstrong
