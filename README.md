@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Of all the things you wear, your expression is the most important.**
+**Always find opportunities to make someone smile, and to offer random acts of kindness in everyday life.**
 
-Janet Lane
+Roy T. Bennett
