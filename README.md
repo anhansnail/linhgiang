@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The purpose of our lives is to be happy.**
+**Runners just do it - they run for the finish line even if someone else has reached it first.**
 
-Dalai Lama
+Unknown
