@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Why worry? If you've done the very best you can, worrying won't make it any better.**
+**You are stronger than you think.**
 
-Walt Disney
+Anonymous
