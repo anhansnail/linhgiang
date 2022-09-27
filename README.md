@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Being optimistic really has nothing to do with happiness, it's just taking whatever life chucks at you and not letting it break you down.**
+**Relationships are based on four principles: respect, understanding, acceptance and appreciation.**
 
-Anonymous
+Mahatma Gandhi
