@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.**
+**Wisdom is knowing when you can't be wise.**
 
-Dr. Seuss
+Muhammad Ali
