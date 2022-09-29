@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Wisdom is knowing when you can't be wise.**
+**It only takes one person to make you happy and change your life: YOU.**
 
-Muhammad Ali
+Charles Orlando
