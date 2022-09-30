@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It only takes one person to make you happy and change your life: YOU.**
+**Happens to every guy sometimes this does.**
 
-Charles Orlando
+Yoda
