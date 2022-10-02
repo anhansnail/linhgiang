@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A smile is the beauty of the soul.**
+**When you find an idea that you just can't stop thinking about, that's probably a good one to pursue.**
 
-Lailah Gifty
+Josh James
