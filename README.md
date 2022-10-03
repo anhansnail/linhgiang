@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I compete only with myself, and I try to become a better human being. This is my goal.**
+**Rise up. Start fresh. See the bright opportunity in each new day.**
 
-Sri Chinmoy
+Anonymous
