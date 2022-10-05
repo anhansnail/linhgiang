@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You know that it's a fool who plays it cool by making his world a little colder.**
+**A person who never made a mistake never tried anything new.**
 
-The Beatles
+Albert Einstein
