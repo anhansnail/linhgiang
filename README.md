@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Start doing things to make you happy.**
+**You know that it's a fool who plays it cool by making his world a little colder.**
 
-Reyna Biddy
+The Beatles
