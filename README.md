@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**To be calm is the highest achievement of the self.**
+**No one who can rise before dawn three hundred sixty days a year fails to make his family rich.**
 
-Zen Proverb
+Malcolm Gladwell
