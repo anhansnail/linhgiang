@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**No one who can rise before dawn three hundred sixty days a year fails to make his family rich.**
+**Spend more of your time on what gives you energy and less of your time on what takes it away.**
 
-Malcolm Gladwell
+Anonymous
