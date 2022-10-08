@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Spend more of your time on what gives you energy and less of your time on what takes it away.**
+**Your true success in life begins only when you make the commitment to become excellent at what you do.**
 
-Anonymous
+Brian Tracy
