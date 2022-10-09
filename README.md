@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The pain you feel today will be the strength you feel tomorrow.**
+**In every success story, you will find someone who made a courageous decision.**
 
-Anonymous
+Peter Drucker
