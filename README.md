@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In every success story, you will find someone who made a courageous decision.**
+**Nobody can make you to feel inferior without your consent.**
 
-Peter Drucker
+Eleanor Roosevelt
