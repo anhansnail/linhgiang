@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Nobody can make you to feel inferior without your consent.**
+**When you stop chasing the wrong things you give the right things a chance to catch you.**
 
-Eleanor Roosevelt
+Anonymous
