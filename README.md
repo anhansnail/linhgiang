@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you stop chasing the wrong things you give the right things a chance to catch you.**
+**We are what we repeatedly do. Excellence, then, is not an act, but a habit.**
 
-Anonymous
+Aristotle
