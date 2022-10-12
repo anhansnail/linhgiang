@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you go to a donkey's house, don't talk about ears.**
+**The marathon can humble you.**
 
-Jamaican Proverb
+Bill Rodgers
