@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The marathon can humble you.**
+**Life without love is like a tree without blossoms or fruit.**
 
-Bill Rodgers
+Khalil Gibran
