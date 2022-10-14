@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are never too old to set another goal or dream a new dream.**
+**When you find an idea that you just can't stop thinking about, that's probably a good one to pursue.**
 
-Les Brown
+Josh James
