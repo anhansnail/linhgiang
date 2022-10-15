@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Everything that is done in this world is done by hope.**
+**Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.**
 
-Martin Luther
+Mary Lou Retton
