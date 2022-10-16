@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The first place where self-esteem begins its journey is within us.**
+**Be yourself. An original is so much better than a copy.**
 
-Stephen Richards
+Anonymous
