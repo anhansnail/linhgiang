@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We can complain because rose bushes have thorns, or rejoice because thorns have roses.**
+**I don't aspire to be like other driver. I aspire to be unique.**
 
-Alphonse Karr
+Lewis Hamilton
