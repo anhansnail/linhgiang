@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be yourself. An original is so much better than a copy.**
+**We can complain because rose bushes have thorns, or rejoice because thorns have roses.**
 
-Anonymous
+Alphonse Karr
