@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I don't aspire to be like other driver. I aspire to be unique.**
+**Even the smallest shift in perspective can bring about the greatest healing.**
 
-Lewis Hamilton
+Joshua Kai
