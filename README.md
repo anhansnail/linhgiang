@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Go after the things you want.**
+**Use your smile to change the world; don't let the world change your smile.**
 
-Simon Sinek
+Chinese proverb
