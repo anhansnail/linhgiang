@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Use your smile to change the world; don't let the world change your smile.**
+**Our own self-esteem is something we can actually twist in whatever way we want.**
 
-Chinese proverb
+Stephen Richards
