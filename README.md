@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The will to win means nothing without the will to prepare.**
+**Enjoy the little things, for one day you may look back and realize they were the big things.**
 
-Juma Ikangaa
+Robert Brault
