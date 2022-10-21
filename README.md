@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Enjoy the little things, for one day you may look back and realize they were the big things.**
+**Good friends are like stars. You don't always see them, but you know they're always there.**
 
-Robert Brault
+Christy Evans
