@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Good friends are like stars. You don't always see them, but you know they're always there.**
+**A truly rich man is one whose children run into his arms when his hands are empty.**
 
-Christy Evans
+Unknown
