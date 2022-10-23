@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Set a goal that makes you want to jump out of bed in the morning.**
+**Everywhere you go, take a smile with you.**
 
-Anonymous
+Sasha Azevedo
