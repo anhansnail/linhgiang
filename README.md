@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do something today that your future self will thank you for.**
+**I can't change the direction of the wind, but I can adjust my sails to always reach my destination.**
 
-Anonymous
+Jimmy Dean
