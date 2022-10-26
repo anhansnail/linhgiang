@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I can't change the direction of the wind, but I can adjust my sails to always reach my destination.**
+**You don't want to look back and know you could have done better.**
 
-Jimmy Dean
+Anonymous
