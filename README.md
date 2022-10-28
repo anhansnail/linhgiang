@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We can be who we are without the pleasures but we could not be who we are not without the hardships.**
+**Be happy, be yourself, and if others don't like it, let them be. Your happiness is a choice. Life isn't about pleasing everybody, so do you.**
 
 Anonymous
