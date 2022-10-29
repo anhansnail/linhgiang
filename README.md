@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you're offered a seat on a rocket ship, don't ask what seat! Just get on.**
+**Forgiving yourself, believing in yourself and choosing to love yourself are the best gifts one could receive.**
 
-Sheryl Sandberg
+Brittany Burgunder
