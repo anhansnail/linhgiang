@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When will you realize, the more you take, the less you have.**
+**Control, control, you must learn control!**
 
-Master Oogway
+Yoda
