@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Control, control, you must learn control!**
+**No matter how tough it may get, never give up on yourself or you will look back and regret it.**
 
-Yoda
+Anonymous
