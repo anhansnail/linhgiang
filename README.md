@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every day may not be good... but there's something good in every day.**
+**The absence of adversity is an indicator that my goals aren't significant enough.**
 
-Alice Morse Earle
+Clint Bruce
