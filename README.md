@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Always two there are, no more, no less. A master and an apprentice.**
+**To handle yourself, use your head; to handle others, use your heart.**
 
-Yoda
+Eleanor Roosevelt
