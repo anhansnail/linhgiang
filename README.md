@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I find that the harder I work, the more luck I seem to have.**
+**Successful people are not gifted; they just work hard, then succeed on purpose.**
 
-Thomas Jefferson
+G.K. Nielson
