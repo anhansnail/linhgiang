@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Successful people are not gifted; they just work hard, then succeed on purpose.**
+**If you get tired, learn to rest, not quit.**
 
-G.K. Nielson
+Anonymous
