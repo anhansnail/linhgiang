@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you get tired, learn to rest, not quit.**
+**Remember, most of your stress comes from the way you respond, not the way life is.**
 
 Anonymous
