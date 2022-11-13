@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Train your mind to see the positive in any situation and keep going.**
+**Life is short, and it is up to you to make it sweet.**
 
-Anonymous
+Sarah Louise Delany
