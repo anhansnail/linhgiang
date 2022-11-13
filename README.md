@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Remember, most of your stress comes from the way you respond, not the way life is.**
+**Train your mind to see the positive in any situation and keep going.**
 
 Anonymous
