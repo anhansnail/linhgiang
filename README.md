@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life is short, and it is up to you to make it sweet.**
+**The greatest discovery of all time is that a person can change their future by merely changing their attitude.**
 
-Sarah Louise Delany
+Oprah Winfrey
