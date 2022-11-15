@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Go fast enough to get there, but slow enough to see.**
+**Keep smiling, because life is a beautiful thing and there's so much to smile about.**
 
-Jimmy Buffett
+Marilyn Monroe
