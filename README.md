@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The secret of getting ahead is getting started.**
+**I ask not for a lighter burden, but for broader shoulders.**
 
-Mark Twain
+Jewish Proverb
