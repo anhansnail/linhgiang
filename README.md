@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I ask not for a lighter burden, but for broader shoulders.**
+**You are enough, just as you are.**
 
-Jewish Proverb
+Anonymous
