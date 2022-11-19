@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never give up, stay focused, stay positive, stay strong.**
+**When we point to obstacles we inhibit progress. When we offer solutions we advance.**
 
-Anonymous
+Simon Sinek
