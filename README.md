@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is letting go of what you think your life is supposed to look like and enjoying it for everything that it is.**
+**Whatever happens, just keep smiling and lose yourself in love.**
 
-Mandy Hale
+Rumi
