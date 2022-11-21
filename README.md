@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Whatever happens, just keep smiling and lose yourself in love.**
+**Staying positive does not mean that things will turn out okay. Rather it is knowing that you will be okay no matter how things turn out.**
 
-Rumi
+Anonymous
