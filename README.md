@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Staying positive does not mean that things will turn out okay. Rather it is knowing that you will be okay no matter how things turn out.**
+**It's easy to stand in the crowd but it takes courage to stand alone.**
 
-Anonymous
+Mahatma Gandhi
