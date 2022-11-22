@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's easy to stand in the crowd but it takes courage to stand alone.**
+**Start where you are. Use what you have. Do what you can.**
 
-Mahatma Gandhi
+Arthur Ashe
