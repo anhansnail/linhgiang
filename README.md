@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A successful man is one who can lay a firm foundation with the bricks others have thrown at him.**
+**Laugh. It's free medicine you don't need insurance for.**
 
-David Brinkley
+Anonymous
