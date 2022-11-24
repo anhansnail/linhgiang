@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Laugh. It's free medicine you don't need insurance for.**
+**If your dreams don't scare you, they aren't big enough.**
 
-Anonymous
+Muhammad Ali
