@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If your dreams don't scare you, they aren't big enough.**
+**The reason we race isn't so much to beat each other,... but to be with each other.**
 
-Muhammad Ali
+Christopher McDougall
