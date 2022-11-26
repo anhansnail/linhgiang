@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are loved.**
+**It is not human nature to enjoy what we get with no effort.**
 
-Anonymous
+Sri Chinmoy
