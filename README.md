@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It is not human nature to enjoy what we get with no effort.**
+**You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.**
 
-Sri Chinmoy
+Steve Maraboli
