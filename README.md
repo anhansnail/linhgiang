@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only way to do great work is to love what you do.**
+**Work on being in love with the person in the mirror who has been through so much but is still standing.**
 
-Steve Jobs
+Anonymous
