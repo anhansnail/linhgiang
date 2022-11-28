@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life works for my benefit.**
+**The only way to do great work is to love what you do.**
 
-Anonymous
+Steve Jobs
