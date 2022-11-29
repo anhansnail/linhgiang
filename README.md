@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Live for yourself and don't ever stop.**
+**Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.**
 
-John Tew
+Helen Keller
