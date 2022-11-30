@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**He who always thinks it is too soon is sure to come too late.**
+**Be strong enough to let go and patient enough to wait for what you deserve.**
 
-German Proverb
+Anonymous
