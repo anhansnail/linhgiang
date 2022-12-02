@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Learn to be thankful for what you already have, while you pursue all that you want.**
+**Champions play to win. Failure is just feedback. There's everything to gain by trying your best.**
 
-Jim Rohn
+Jim Afremow
