@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are never too old to set another goal or dream a new dream.**
+**Runners just do it - they run for the finish line even if someone else has reached it first.**
 
-Les Brown
+Unknown
