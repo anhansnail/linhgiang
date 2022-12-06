@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't regret the past, just learn from it.**
+**Float like a butterfly, sting like a bee. The hands can't hit what the eyes can't see.**
 
-Ben Ipock
+Muhammad Ali
