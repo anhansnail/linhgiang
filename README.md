@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Float like a butterfly, sting like a bee. The hands can't hit what the eyes can't see.**
+**Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.**
 
-Muhammad Ali
+Thich Nhat Hanh
