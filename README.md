@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Words may inspire but only action creates change.**
+**Difficulty is what wakes up the genius.**
 
-Simon Sinek
+Nassim Nicholas Taleb
