@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Difficulty is what wakes up the genius.**
+**When it comes to success, there are no shortcuts.**
 
-Nassim Nicholas Taleb
+Bo Bennett
