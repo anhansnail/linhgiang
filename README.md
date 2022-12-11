@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Throw kindness around like confetti.**
+**In this life we cannot do great things. We can only do small things with great love.**
 
-Anonymous
+Mother Teresa
