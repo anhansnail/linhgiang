@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In this life we cannot do great things. We can only do small things with great love.**
+**It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live.**
 
-Mother Teresa
+Mae Jemison
