@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live.**
+**Find a place inside where there's joy, and the joy will burn out the pain.**
 
-Mae Jemison
+Joseph Campbell
