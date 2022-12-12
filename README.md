@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Find a place inside where there's joy, and the joy will burn out the pain.**
+**Failure is simply the opportunity to begin again. Except this time more intelligently.**
 
-Joseph Campbell
+Henry Ford
