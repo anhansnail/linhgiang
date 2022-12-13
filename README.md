@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Mind what you have learned. Save you it can.**
+**It's not bragging if you can back it up.**
 
-Yoda
+Muhammed Ali
