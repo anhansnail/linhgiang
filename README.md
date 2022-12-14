@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not bragging if you can back it up.**
+**Everywhere you go, take a smile with you.**
 
-Muhammed Ali
+Sasha Azevedo
