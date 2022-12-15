@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It is not in the stars to hold our destiny but in ourselves.**
+**You can alter mood by running.**
 
-William Shakespeare
+Tumpal Sihombing
