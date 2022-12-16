@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Determination is doing what needs to be done even when you don't feel like doing it.**
+**All souls are lost until they are found.**
 
-Anonymous
+Kate McGahan
