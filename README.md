@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**All souls are lost until they are found.**
+**An attitude of positive expectation is the mark of the superior personality.**
 
-Kate McGahan
+Brian Tracy
