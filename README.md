@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**An attitude of positive expectation is the mark of the superior personality.**
+**We are made to persist. That's how we find out who we are.**
 
-Brian Tracy
+Tobias Wolff
