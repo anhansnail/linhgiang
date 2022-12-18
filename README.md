@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We are made to persist. That's how we find out who we are.**
+**When it's pouring rain and you're bowling along through the wet, there's satisfaction in knowing you're out there and the others aren't.**
 
-Tobias Wolff
+Peter Snell
