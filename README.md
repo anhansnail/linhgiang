@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Strength isn't about how much you can handle before you break. It's about how much you can endure after you've been broken.**
+**Let your smile change the world, but don't let the world change your smile.**
 
 Anonymous
