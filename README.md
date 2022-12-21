@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Great minds discuss ideas; average minds discuss events; small minds discuss people.**
+**I think that the good and the great are only separated by the willingness to sacrifice.**
 
-Eleanor Roosevelt
+Kareem Abdul-Jabbar
