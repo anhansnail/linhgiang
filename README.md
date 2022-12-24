@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Only those who risk going too far, can possibly find out how far one can go.**
+**Make sure your worst enemy doesn't live between your own two ears.**
 
-T.S. Elliot
+Laird Hamilton
