@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Deep doubts, deep wisdom; small doubts, small wisdom.**
+**Only those who risk going too far, can possibly find out how far one can go.**
 
-Chinese Proverb
+T.S. Elliot
