@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You came into the world to do something; So... do something!**
+**Life is too short to spend it at war with yourself.**
 
-Johnnie Dent Jr
+Anonymous
