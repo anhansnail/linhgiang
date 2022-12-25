@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Make sure your worst enemy doesn't live between your own two ears.**
+**You came into the world to do something; So... do something!**
 
-Laird Hamilton
+Johnnie Dent Jr
