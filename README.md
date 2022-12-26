@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life is too short to spend it at war with yourself.**
+**It's not bragging if you can back it up.**
 
-Anonymous
+Muhammed Ali
