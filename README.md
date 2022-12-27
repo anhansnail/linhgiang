@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The absence of adversity is an indicator that my goals aren't significant enough.**
+**You deserve to be happy. You deserve to live a life you are excited about. Don't let others make you forget that.**
 
-Clint Bruce
+Anonymous
