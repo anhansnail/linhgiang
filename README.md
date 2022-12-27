@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not bragging if you can back it up.**
+**The absence of adversity is an indicator that my goals aren't significant enough.**
 
-Muhammed Ali
+Clint Bruce
