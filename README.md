@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You deserve to be happy. You deserve to live a life you are excited about. Don't let others make you forget that.**
+**Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.**
 
-Anonymous
+Rikki Rogers
