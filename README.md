@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You matter.**
+**You may say I'm a dreamer but I'm not the only one.**
 
-Anonymous
+John Lennon
