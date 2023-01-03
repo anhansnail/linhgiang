@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Always two there are, no more, no less. A master and an apprentice.**
+**Successful people have fear, successful people have doubts, and successful people have worries. They just don't let these feelings stop them.**
 
-Yoda
+T. Harv Eker
