@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Successful people have fear, successful people have doubts, and successful people have worries. They just don't let these feelings stop them.**
+**Happy are those who take life day by day, complain very little, and are thankful for the little things in life.**
 
-T. Harv Eker
+Anonymous
