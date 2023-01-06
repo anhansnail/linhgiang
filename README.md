@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**What you're thinking is what you're becoming.**
+**When you dare to dream, dare to follow that dream; dare to suffer through the pain, sacrifice, self-doubts and friction from the world.**
 
-Muhammad Ali
+Laura Schlessinger
