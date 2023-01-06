@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You can if you think you can.**
+**What you're thinking is what you're becoming.**
 
-George Reeves
+Muhammad Ali
