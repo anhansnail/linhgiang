@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**People are just as happy as they make up their minds to be.**
+**People will see you the way you see yourself.**
 
-Abraham Lincoln
+Sergio Diaz
