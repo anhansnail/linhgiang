@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**People will see you the way you see yourself.**
+**Attachment leads to jealously. The shadow of greed, that is.**
 
-Sergio Diaz
+Yoda
