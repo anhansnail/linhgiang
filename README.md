@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Attachment leads to jealously. The shadow of greed, that is.**
+**We are made to persist. That's how we find out who we are.**
 
-Yoda
+Tobias Wolff
