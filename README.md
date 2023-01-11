@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**We are made to persist. That's how we find out who we are.**
+**I don't count my sit-ups; I only start counting when it starts hurting because they're the only ones that count.**
 
-Tobias Wolff
+Muhammad Ali
