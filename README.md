@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**People are just as happy as they make up their minds to be.**
+**It's not so much that I began to run, but that I continued.**
 
-Abraham Lincoln
+Hal Higdon
