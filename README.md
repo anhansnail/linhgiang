@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I don't count my sit-ups; I only start counting when it starts hurting because they're the only ones that count.**
+**People are just as happy as they make up their minds to be.**
 
-Muhammad Ali
+Abraham Lincoln
