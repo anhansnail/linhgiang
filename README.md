@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not so much that I began to run, but that I continued.**
+**The difference between the impossible and the possible lies in a person's determination.**
 
-Hal Higdon
+Tommy Lasorda
