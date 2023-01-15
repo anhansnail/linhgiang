@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You are enough, just as you are.**
+**All souls are lost until they are found.**
 
-Anonymous
+Kate McGahan
