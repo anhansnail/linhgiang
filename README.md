@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Work hard in silence. Let success make the noise.**
+**Find a place inside where there's joy, and the joy will burn out the pain.**
 
-Anonymous
+Joseph Campbell
