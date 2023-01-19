@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never stop believing in hope because miracles happen everyday.**
+**Work hard in silence. Let success make the noise.**
 
 Anonymous
