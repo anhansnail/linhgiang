@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Find a place inside where there's joy, and the joy will burn out the pain.**
+**Good, better, best. Never let it rest. Until your good is better and your better is best.**
 
-Joseph Campbell
+Tim Duncan
