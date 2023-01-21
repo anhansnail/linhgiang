@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**All souls are lost until they are found.**
+**Winning doesn't always mean being first. Winning means you're doing better than you've done before.**
 
-Kate McGahan
+Bonnie Blair
