@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**With confidence you have won before you have started.**
+**You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.**
 
-Marcus Garvey
+Steve Maraboli
