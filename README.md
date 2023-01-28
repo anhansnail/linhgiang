@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Hustle until your haters ask if you are hiring.**
+**Winning doesn't always mean being first. Winning means you're doing better than you've done before.**
 
-Anonymous
+Bonnie Blair
