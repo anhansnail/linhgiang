@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be so good they can't ignore you.**
+**Go fast enough to get there, but slow enough to see.**
 
-Steve Martin
+Jimmy Buffett
