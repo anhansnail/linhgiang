@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Because of your smile, you make life more beautiful.**
+**In a battle between elephants, the ants get squashed.**
 
-Thich Nhat Hanh
+Thai Proverb
