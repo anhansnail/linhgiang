@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happy people don't have the best of everything they make the best of everything.**
+**Because of your smile, you make life more beautiful.**
 
-Anonymous
+Thich Nhat Hanh
