@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In a battle between elephants, the ants get squashed.**
+**It is not how much we have, but how much we enjoy, that makes happiness.**
 
-Thai Proverb
+Charles Spurgeon
