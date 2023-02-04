@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You cannot afford to live in potential for the rest of your life; at some point, you have to unleash the potential and make your move.**
+**Self-confidence is the most attractive quality a person can have. How can anyone see how great you are if you can't see it yourself?**
 
-Eric Thomas
+Anonymous
