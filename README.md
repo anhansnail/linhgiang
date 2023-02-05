@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only thing worse than starting something and failing... is not starting something.**
+**There is no charm equal to tenderness of heart.**
 
-Seth Godin
+Jane Austen
