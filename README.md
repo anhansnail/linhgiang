@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Keep going. Everything you need will come to you at the perfect time.**
+**A good life is doing what you love as much as you can and doing what you must as much as you should.**
 
-Anonymous
+Savania China
