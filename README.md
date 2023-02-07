@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**No act of kindness, no matter how small, is ever wasted.**
+**Keep going. Everything you need will come to you at the perfect time.**
 
-Aesop
+Anonymous
