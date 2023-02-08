@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One who moves a mountain begins by carrying away small stones.**
+**Our greatest glory is not in never falling, but in rising every time we fall.**
 
 Confucius
