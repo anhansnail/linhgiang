@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The best preparation for tomorrow is doing your best today.**
+**Climb the mountains to see lowlands.**
 
-H. Jackson Brown, Jr
+Chinese Proverb
