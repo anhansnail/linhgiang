@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Focus on being productive instead of busy.**
+**Cheerfulness is the very flower of health.**
 
-Tim Ferris
+Anonymous
