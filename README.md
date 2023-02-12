@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You will find only what you bring in.**
+**It's easy to stand in the crowd but it takes courage to stand alone.**
 
-Yoda
+Mahatma Gandhi
