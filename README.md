@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A fault confessed is half redressed.**
+**You will find only what you bring in.**
 
-Zulu Proverb
+Yoda
