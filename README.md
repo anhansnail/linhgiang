@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Go confidently in the direction of your dreams! Live the life you've imagined.**
+**Good judgment comes from experience, and a lot of that comes from bad judgment.**
 
-Henry David Thoreau
+Will Rogers
