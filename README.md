@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**An inch of gold can't buy an inch of time.**
+**Skill is only developed by hours and hours of work.**
 
-Chinese Proverb
+Usain Bolt
