@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**How wonderful it is that nobody need wait a single moment before starting to improve the world.**
+**The trophy is earned in the hours that no one is watching.**
 
-Anne Frank
+Anonymous
