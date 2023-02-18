@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The goal is not to be perfect by the end. The goal is to be better today.**
+**Remember, most of your stress comes from the way you respond, not the way life is.**
 
-Simon Sinek
+Anonymous
