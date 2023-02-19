@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A winner never stops trying.**
+**Confidence comes from discipline and training.**
 
-Tom Landry
+Robert Kiyosaki
