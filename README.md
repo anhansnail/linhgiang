@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Confidence comes from discipline and training.**
+**Learn to be thankful for what you already have, while you pursue all that you want.**
 
-Robert Kiyosaki
+Jim Rohn
