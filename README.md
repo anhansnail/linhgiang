@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Learn to be thankful for what you already have, while you pursue all that you want.**
+**I didn't fail the test. I just found 100 ways to do it wrong.**
 
-Jim Rohn
+Benjamin Franklin
