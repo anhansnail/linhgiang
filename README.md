@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Even the greatest were beginners. Don't be afraid to take that first step.**
+**I don't aspire to be like other driver. I aspire to be unique.**
 
-Anonymous
+Lewis Hamilton
