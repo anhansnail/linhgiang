@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The comeback is always stronger than the setback.**
+**You alone are enough. You have nothing to prove to anybody.**
 
-Anonymous
+Maya Angelou
