@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You alone are enough. You have nothing to prove to anybody.**
+**Good people are like candles; they burn themselves up to give others light.**
 
-Maya Angelou
+Anonymous
