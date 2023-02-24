@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The wise listens to her mind, the foolish to the mob.**
+**Never let the fear of striking out keep you from playing the game.**
 
-Chinese Proverb
+Babe Ruth
