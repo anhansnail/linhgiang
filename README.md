@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Your problem isn't the problem, it's your attitude about the problem.**
+**If you don't fall, how are you going to know what getting up feels like?**
 
-Ann Brashares
+Stephen Curry
