@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Keep smiling. It makes people wonder what you are up to.**
+**No marathon gets easier later. The halfway point only marks the end of the beginning.**
 
-Anonymous
+Joe Henderson
