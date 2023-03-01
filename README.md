@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Your life does not get better by chance, it gets better by change.**
+**Failure will never overtake me if my determination to succeed is strong enough.**
 
-Anonymous
+Og Mandino
