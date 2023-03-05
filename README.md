@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Beauty begins the moment you decide to be yourself.**
+**It ain't as bad as you think. It will look better in the morning.**
 
-Coco Chanel
+Colin Powell
