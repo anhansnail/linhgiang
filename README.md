@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't fear moving slowly forward...fear standing still.**
+**Don't cry because it's over, smile because it happened.**
 
-Kathleen Harris
+Dr. Seuss
