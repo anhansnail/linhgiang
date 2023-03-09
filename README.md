@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**People want to do business with you because you help them get what they want. They don't do business with you to help you get what you want.**
+**Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.**
 
-Don Crowther
+Napoleon Hill
