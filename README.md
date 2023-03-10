@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Smile, it is the key that fits the lock of everybody's heart.**
+**What you choose to focus on expands and grows.**
 
-Anthony J D'Angelo
+Anonymous
