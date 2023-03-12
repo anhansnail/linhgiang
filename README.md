@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Shine like the whole universe is yours.**
+**Difficult to see. Always in motion is the future.**
 
-Rumi
+Yoda
