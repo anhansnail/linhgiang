@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The beginning is the most important part of the work.**
+**It's not what you look at that matters, it's what you see.**
 
-Plato
+Henry David Thoreau
