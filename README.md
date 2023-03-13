@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.**
+**The beginning is the most important part of the work.**
 
-Bill Keane
+Plato
