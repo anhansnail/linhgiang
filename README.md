@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not what you look at that matters, it's what you see.**
+**You don't get what you wish for. You get what you work for.**
 
-Henry David Thoreau
+Anonymous
