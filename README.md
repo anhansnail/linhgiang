@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You don't get what you wish for. You get what you work for.**
+**In order to carry a positive action we must develop here a positive vision.**
 
-Anonymous
+Dalai Lama
