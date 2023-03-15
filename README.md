@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Just one smile, immensely increases the beauty, of the universe.**
+**Life isn't about getting and having, it's about giving and being.**
 
-Sri Chinmoy
+Kevin Kruse
