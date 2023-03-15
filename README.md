@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In order to carry a positive action we must develop here a positive vision.**
+**Just one smile, immensely increases the beauty, of the universe.**
 
-Dalai Lama
+Sri Chinmoy
