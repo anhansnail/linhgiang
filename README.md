@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life isn't about getting and having, it's about giving and being.**
+**Earn your confidence, nurture it, then help to build it in others.**
 
-Kevin Kruse
+Alex Malley
