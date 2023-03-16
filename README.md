@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Earn your confidence, nurture it, then help to build it in others.**
+**Give up on being perfect and start working on becoming yourself.**
 
-Alex Malley
+Anna Quindlen
