@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Give up on being perfect and start working on becoming yourself.**
+**Start where you are. Use what you have. Do what you can.**
 
-Anna Quindlen
+Arthur Ashe
