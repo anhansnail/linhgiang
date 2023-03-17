@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Start where you are. Use what you have. Do what you can.**
+**When you have exhausted all possibilities, remember this: you haven't.**
 
-Arthur Ashe
+Thomas Edison
