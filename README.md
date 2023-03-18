@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you have exhausted all possibilities, remember this: you haven't.**
+**Luck is what happens when preparation meets opportunity.**
 
-Thomas Edison
+Seneca
