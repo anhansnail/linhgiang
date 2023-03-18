@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Luck is what happens when preparation meets opportunity.**
+**Our problems don't stem from our ignorance so much as our disobedience of that which we know to be right.**
 
-Seneca
+Stephen Covey
