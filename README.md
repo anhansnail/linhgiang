@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I survived because the fire inside me burned brighter than the fire around me.**
+**Start doing things to make you happy.**
 
-Joshua Graham
+Reyna Biddy
