@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you want to lift yourself up, lift up someone else.**
+**I survived because the fire inside me burned brighter than the fire around me.**
 
-Booker T. Washington
+Joshua Graham
