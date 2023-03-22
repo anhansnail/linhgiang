@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**A champion is someone who gets up when they can't.**
+**If only we'd stop trying to be happy we could have a pretty good time.**
 
-Jack Dempsey
+Edith Wharton
