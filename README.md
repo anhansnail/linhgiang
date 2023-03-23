@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**In a dark place we find ourselves, and a little more knowledge lights our way.**
+**Be a voice not an echo.**
 
-Yoda
+Anonymous
