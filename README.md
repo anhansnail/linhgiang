@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Pessimism leads to weakness, optimism to power.**
+**Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.**
 
-William James
+Yoko Ono
