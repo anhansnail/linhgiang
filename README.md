@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Be a voice not an echo.**
+**Pessimism leads to weakness, optimism to power.**
 
-Anonymous
+William James
