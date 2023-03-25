@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There are so many beautiful reasons to be happy.**
+**Teachers open the door; you enter by yourself.**
 
-Anonymous
+Chinese Proverb
