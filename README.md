@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Teachers open the door; you enter by yourself.**
+**All things equal, people will do business with, and refer business to, people they know trust and like.**
 
-Chinese Proverb
+Bob Burg
