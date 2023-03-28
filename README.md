@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**None of us is as smart as all of us.**
+**There's never enough time to do everything, but there's always enough time to do the most important thing.**
 
-Ken Blanchard
+Dean Bokhari
