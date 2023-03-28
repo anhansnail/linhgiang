@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Patience you must have, my young padawan.**
+**None of us is as smart as all of us.**
 
-Yoda
+Ken Blanchard
