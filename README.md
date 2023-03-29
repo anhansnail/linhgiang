@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There's never enough time to do everything, but there's always enough time to do the most important thing.**
+**It does not matter how slowly you go as long as you do not stop.**
 
-Dean Bokhari
+Confucius
