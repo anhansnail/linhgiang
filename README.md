@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It does not matter how slowly you go as long as you do not stop.**
+**We last longer if we compete against ourselves for the good of others instead of competing against others for the good of ourselves.**
 
-Confucius
+Simon Sinek
