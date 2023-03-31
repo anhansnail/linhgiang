@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Everywhere you go, take a smile with you.**
+**The trick is to enjoy life. Don't wish away your days, waiting for better ones ahead.**
 
-Sasha Azevedo
+Marjorie Pay Hinckley
