@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The trick is to enjoy life. Don't wish away your days, waiting for better ones ahead.**
+**You cannot afford to live in potential for the rest of your life; at some point, you have to unleash the potential and make your move.**
 
-Marjorie Pay Hinckley
+Eric Thomas
