@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You're braver than you believe, and stronger than you seem, and smarter than you think.**
+**I knew that if I failed I wouldn't regret that. But I would regret not trying.**
 
-A.A. Mine
+Jeff Bezos
