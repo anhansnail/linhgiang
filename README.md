@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Smile at strangers and you just might change a life.**
+**Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.**
 
-Steve Maraboli
+Satchel Paige
