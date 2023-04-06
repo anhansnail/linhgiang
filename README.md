@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.**
+**There's nothing that you can do that can't be done.**
 
-Satchel Paige
+The Beatles
