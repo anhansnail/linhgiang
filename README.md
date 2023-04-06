@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There's nothing that you can do that can't be done.**
+**The only easy day was yesterday.**
 
-The Beatles
+Navy Seals
