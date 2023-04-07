@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Where there is love there is life.**
+**If you want it, you'll find a way. If you don't, you'll find an excuse.**
 
-Mahatma Gandhi
+Anonymous
