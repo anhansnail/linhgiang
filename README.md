@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only easy day was yesterday.**
+**Where there is love there is life.**
 
-Navy Seals
+Mahatma Gandhi
