@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every strike brings me closer to the next home run.**
+**No beauty shines brighter than that of a good heart.**
 
-Babe Ruth
+Anonymous
