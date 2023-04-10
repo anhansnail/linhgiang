@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Wherever you go, go with all your heart.**
+**I can and I will. Watch me.**
 
-Confucius
+Carrie Green
