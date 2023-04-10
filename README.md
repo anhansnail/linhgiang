@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I can and I will. Watch me.**
+**When you depersonalize abrasive behavior and see it as a call for help you become a catalyst for the best kind of change.**
 
-Carrie Green
+Marilyn Suttle
