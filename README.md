@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life is made of ever so many partings welded together.**
+**Smiling doesn't necessarily mean you're happy. Sometimes it just means you're strong.**
 
-Charles Dickens
+Anonymous
