@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Believe in yourself and you can be anything.**
+**If you are not willing to risk the usual, you will have to settle for the ordinary.**
 
-Katy Perry
+Jim Rohn
