@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When life puts you in tough situations, don't say "why me?" say "try me".**
+**Take it all one day at a time and enjoy the journey.**
 
-Anonymous
+Kristi Bartlett
