@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Faith is taking the first step even when you don't see the whole staircase.**
+**When you love what you have, you have everything you need.**
 
-Martin Luther King
+Anonymous
