@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you love what you have, you have everything you need.**
+**Are your excuses more important than your dreams?**
 
 Anonymous
