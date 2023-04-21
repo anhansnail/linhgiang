@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Are your excuses more important than your dreams?**
+**Choosing to be positive and having a grateful attitude is going to determine how you're going to live your life.**
 
-Anonymous
+Joel Osteen
