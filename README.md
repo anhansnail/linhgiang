@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Running is therapy anyone can afford.**
+**Keep your eyes on the stars, and your feet on the ground.**
 
-Toni Sorenson
+Theodore Roosevelt
