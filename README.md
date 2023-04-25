@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is a habit - cultivate it.**
+**There is nothing on this earth more to be prized than true friendship.**
 
-Elbert Hubbard
+Thomas Aquinas
