@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There is nothing on this earth more to be prized than true friendship.**
+**If you believe it will work out, you'll see opportunities. If you believe it won't, you will see obstacles.**
 
-Thomas Aquinas
+Wayne Dyer
