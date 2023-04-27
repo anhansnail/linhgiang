@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Happiness is not something you postpone for the future; it is something you design for the present.**
+**It ain't as bad as you think. It will look better in the morning.**
 
-Jim Rohn
+Colin Powell
