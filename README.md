@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The best way to predict your future is to create it.**
+**Let your unique awesomeness and positive energy inspire confidence in others.**
 
-Peter F. Drucker
+Anonymous
