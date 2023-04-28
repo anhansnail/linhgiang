@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It ain't as bad as you think. It will look better in the morning.**
+**The best way to predict your future is to create it.**
 
-Colin Powell
+Peter F. Drucker
