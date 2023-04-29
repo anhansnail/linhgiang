@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Let your unique awesomeness and positive energy inspire confidence in others.**
+**Patience you must have, my young padawan.**
 
-Anonymous
+Yoda
