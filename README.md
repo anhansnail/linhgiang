@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Look for something positive in each day, even if some days you have to look a little harder.**
+**Great works are performed, not by strength, but by perseverance.**
 
-Anonymous
+Samuel Johnson
