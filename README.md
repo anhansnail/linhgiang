@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Great works are performed, not by strength, but by perseverance.**
+**You miss 100% of the shots you don't take.**
 
-Samuel Johnson
+Wayne Gretzky
