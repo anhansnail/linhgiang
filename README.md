@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You miss 100% of the shots you don't take.**
+**Spend your life with people who make you smile, laugh, and feel loved.**
 
-Wayne Gretzky
+Roy T. Bennett
