@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Spend your life with people who make you smile, laugh, and feel loved.**
+**A truly rich man is one whose children run into his arms when his hands are empty.**
 
-Roy T. Bennett
+Unknown
