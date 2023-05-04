@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You cannot change the direction of the wind - only alter the angle of your sails.**
+**When it gets difficult is often right before you succeed.**
 
-Anonymous
+Jeffrey Walker
