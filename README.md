@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When it gets difficult is often right before you succeed.**
+**You don't have to control your thoughts; you just have to stop letting them control you.**
 
-Jeffrey Walker
+Dan Millman
