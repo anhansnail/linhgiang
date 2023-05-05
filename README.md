@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.**
+**Today you are you! That is truer than true! There is no one alive who is you-er than you!**
 
-Oprah Winfrey
+Dr. Seuss
