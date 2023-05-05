@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**You don't have to control your thoughts; you just have to stop letting them control you.**
+**If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.**
 
-Dan Millman
+Oprah Winfrey
