@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**100% commitment is easier than 98% commitment.**
+**Our own self-esteem is something we can actually twist in whatever way we want.**
 
-Harvard Business School
+Stephen Richards
