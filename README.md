@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Fall seven times, stand up eight.**
+**It makes a big difference in your life when you stay positive.**
 
-Japanese Proverb
+Ellen DeGeneres
