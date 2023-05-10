@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Don't be afraid to give up the good to go for the great.**
+**Remember that not getting what you want is sometimes a wonderful stroke of luck.**
 
-John D. Rockefeller
+Dalai Lama
