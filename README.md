@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**One day I'll be at the place I always wanted to be.**
+**The starting point of all achievement is desire.**
 
-Anonymous
+Napoleon Hill
