@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Almost every successful person begins their journey with two core beliefs: the future can be better than the present, and I have the power to make it so.**
+**Every champion was once a contender that refused to give up.**
 
-Anonymous
+Rocky Balboa
