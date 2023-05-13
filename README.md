@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Every champion was once a contender that refused to give up.**
+**There may be people that have more talent than you, but theres no excuse for anyone to work harder than you.**
 
-Rocky Balboa
+Derek Jeter
