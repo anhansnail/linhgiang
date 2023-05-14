@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.**
+**The past does not equal the future.**
 
-Buddha
+Tony Robbins
