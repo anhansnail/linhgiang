@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**There may be people that have more talent than you, but theres no excuse for anyone to work harder than you.**
+**Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.**
 
-Derek Jeter
+Buddha
