@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Hardships often prepare ordinary people for an extraordinary destiny.**
+**Every morning you have a new opportunity to become a happier version of yourself.**
 
-C.S. Lewis
+Anonymous
