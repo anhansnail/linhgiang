@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Mistakes are proof that you are trying.**
+**It's not whether you get knocked down. It's whether you get back up.**
 
-Anonymous
+Vince Lombardi
