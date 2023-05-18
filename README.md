@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**He who sweats more in training bleeds less in war.**
+**Mistakes are proof that you are trying.**
 
-Greek Proverb
+Anonymous
