@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**If no mistake have you made, yet losing you are... a different game you should play.**
+**Life isn't about finding yourself. Life is about creating yourself.**
 
-Yoda
+George Bernard Shaw
