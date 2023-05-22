@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Life isn't about finding yourself. Life is about creating yourself.**
+**Speed is irrelevant if you are going in the wrong direction.**
 
-George Bernard Shaw
+Mahatma Gandhi
