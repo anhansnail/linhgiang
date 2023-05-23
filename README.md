@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Speed is irrelevant if you are going in the wrong direction.**
+**Count your age by friends, not years. Count your life by smiles, not tears.**
 
-Mahatma Gandhi
+John Lennon
