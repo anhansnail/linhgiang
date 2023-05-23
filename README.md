@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Count your age by friends, not years. Count your life by smiles, not tears.**
+**Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.**
 
-John Lennon
+Wayne Dyer
