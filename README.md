@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Climb the mountains to see lowlands.**
+**There's no shortage of remarkable ideas, what's missing is the will to execute them.**
 
-Chinese Proverb
+Seth Godin
