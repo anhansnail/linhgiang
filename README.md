@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I'm too grateful to be hateful. I am too blessed to be stressed.**
+**Never stop trying. Never stop believing. Never give up. Your day will come.**
 
-El DeBarge
+Anonymous
