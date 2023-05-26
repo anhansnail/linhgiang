@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never stop trying. Never stop believing. Never give up. Your day will come.**
+**Live life to the fullest and focus on the positive.**
 
-Anonymous
+Matt Cameron
