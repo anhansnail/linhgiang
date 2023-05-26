@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Live life to the fullest and focus on the positive.**
+**There are no mistakes, only lessons. Growth is a process of trial and error.**
 
-Matt Cameron
+Anonymous
