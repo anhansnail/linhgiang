@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Decide what matters most to you and do it.**
+**Success doesn't just come and find you, you have to go out and get it.**
 
 Anonymous
