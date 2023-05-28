@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Goals may give focus, but dreams give power.**
+**Never give up. You only get one life. Go for it.**
 
-John Maxwell
+Richard E. Grant
