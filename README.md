@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Earn your confidence, nurture it, then help to build it in others.**
+**Courage doesn't always roar, sometimes it's the quiet voice at the end of the day whispering 'I will try again tomorrow'.**
 
-Alex Malley
+Mary Anne Radmacher
