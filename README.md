@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Never give up. You only get one life. Go for it.**
+**Earn your confidence, nurture it, then help to build it in others.**
 
-Richard E. Grant
+Alex Malley
