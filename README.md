@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**No man can paddle two canoes at the same time.**
+**To be willing is only half the task.**
 
-Bantu Proverb
+Armenian Proverb
