@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**To be willing is only half the task.**
+**Open your eyes and notice the beauty of this wonderful world.**
 
-Armenian Proverb
+Anonymous
