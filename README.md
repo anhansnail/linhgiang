@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**When you don't talk, there's a lot of stuff that ends up not getting said.**
+**Like the morning sun, you too shall rise and continue to shine.**
 
-Catherine Gilbert Murdock
+Anonymous
