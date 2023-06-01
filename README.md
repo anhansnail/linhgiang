@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Open your eyes and notice the beauty of this wonderful world.**
+**When you don't talk, there's a lot of stuff that ends up not getting said.**
 
-Anonymous
+Catherine Gilbert Murdock
