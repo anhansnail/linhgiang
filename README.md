@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Like the morning sun, you too shall rise and continue to shine.**
+**Only a life lived for others is a life worthwhile.**
 
-Anonymous
+Albert Einstein
