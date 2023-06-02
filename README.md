@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Only a life lived for others is a life worthwhile.**
+**A runner must run with dreams in his heart.**
 
-Albert Einstein
+Emil Zatopek
