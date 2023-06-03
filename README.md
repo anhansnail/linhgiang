@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Passion first and everything will fall into place.**
+**The question isn't who is going to let me; it's who is going to stop me.**
 
-Holly Holm
+Ayn Rand
