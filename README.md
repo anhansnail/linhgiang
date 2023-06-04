@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The question isn't who is going to let me; it's who is going to stop me.**
+**The difference between stumbling blocks and stepping stones is how you use them.**
 
-Ayn Rand
+Anonymous
