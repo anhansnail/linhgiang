@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The difference between stumbling blocks and stepping stones is how you use them.**
+**I have found that if you love life, life will love you back.**
 
-Anonymous
+Arthur Rubinstein
