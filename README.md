@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**The only time you fail is when you fall down and stay down.**
+**If you can't live longer, live deeper.**
 
-Stephen Richards
+Italian Proverb
