@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**I have found that if you love life, life will love you back.**
+**The only time you fail is when you fall down and stay down.**
 
-Arthur Rubinstein
+Stephen Richards
