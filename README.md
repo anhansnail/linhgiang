@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It's not whether you get knocked down. It's whether you get back up.**
+**Challenges are what make life interesting and overcoming them is what makes life meaningful.**
 
-Vince Lombardi
+Joshua Marine
