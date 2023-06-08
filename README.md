@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**Once you choose hope, anything's possible.**
+**Spend your life with people who make you smile, laugh, and feel loved.**
 
-Christopher Reeve
+Roy T. Bennett
