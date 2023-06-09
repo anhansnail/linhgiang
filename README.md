@@ -209,6 +209,6 @@ Project Link: [https://github.com/sauanla/wedding-invitation](https://github.com
 [product-screenshot]: https://i.imgur.com/R8MzjsI.png
 
 ⚡ Quote: 
-**It is not the mountain we conquer, but ourselves.**
+**When obstacles arise, you change your direction to reach your goal, you do not change your decision to get there.**
 
-Sir Edmund Hillary
+Zig Ziglar
